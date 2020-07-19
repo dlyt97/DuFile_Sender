@@ -1,7 +1,6 @@
 import socket
 import time
 import datetime
-from tkinter.filedialog import askopenfilename
 import os
 
 class DuFile_Sender():
